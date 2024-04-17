@@ -7,4 +7,7 @@ Untuk anda yang ingin menginstall azura cast di varian linux server, bisa mengik
 ```
 cd /var
 ```
-2. 
+2. Lalu clone repositori ini dengan perintah
+```
+git clone https://github.com/fauzan-january/azuracast
+```
