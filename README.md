@@ -4,5 +4,7 @@ Ini hanya untuk mempermudah saya dalam proses penginstalan azuracast, karena lin
 ## Instalasi
 Untuk anda yang ingin menginstall azura cast di varian linux server, bisa mengikuti langkah-langkah berikut:
 1. Arahkan ke direktory /var pada vps linux anda dengan perintah
-``` cd /var ```
+```
+cd /var
+```
 2. 
