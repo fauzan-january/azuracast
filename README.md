@@ -25,5 +25,5 @@ chmod +x docker.sh
 ```
 6. Ikuti panduan instalasi yang muncul di layar hingga selesai
 7. Terkait bahasa, port dan lainnya, biarkan saja default dengan langsung menekan enter
-
+8. Setelah proses instalasi melalui terminal selesai, untuk setup selanjutnya melalui web interface (antarmuka web). Silahkan ikuti aja proses beserta panduannya.
 Selesai
